@@ -52,7 +52,7 @@ F.true. Boolean(2) is convered to true. true==true is true.
 [2,4,6]. Because function doSomething will iterate through the array and make double. And push result to newArr.  
 
 19.
-1,4,3
+1,4,3  
 2
 
 
