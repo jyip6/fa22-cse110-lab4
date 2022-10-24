@@ -20,33 +20,33 @@
 
 11.The function will return the array[50, 100 150] In the loop, finalPrice will be pushed into discounted list, and discounted will return after the loop.
 
-12.
-A. student.name
-B. student["Grad Year"]
-C. student.greeting()
-D. student["Favorite Teacher"].name
-E. student.courseLoad[0]
+12.    
+A. student.name  
+B. student["Grad Year"]  
+C. student.greeting()  
+D. student["Favorite Teacher"].name  
+E. student.courseLoad[0]  
 
-13.
-A. 32. 2 is converted to a string '2', and be concatenated to become '32'.
-B. 1. '3' is convered to number 3, and be concatenated to become '32'.
-C. 3. null is convered to number 0.
-D. '3null'. null is converted to string, and be concatenated to become '3null'.
-E. 4. boolean true is convered to number 1, 3+1=4.
-F. 0. boolean false is convered to number 0, and null is convered to number 0. 0+0=0.
-G. '3undefined'.undefined is converted to string, and be concatenated to become '3undefined'.
-H. NaN. undefined is converted to NaN, cannot not be mathematically operated with 3.
+13.  
+A. 32. 2 is converted to a string '2', and be concatenated to become '32'.  
+B. 1. '3' is convered to number 3, and be concatenated to become '32'.  
+C. 3. null is convered to number 0.  
+D. '3null'. null is converted to string, and be concatenated to become '3null'.  
+E. 4. boolean true is convered to number 1, 3+1=4.  
+F. 0. boolean false is convered to number 0, and null is convered to number 0. 0+0=0.  
+G. '3undefined'.undefined is converted to string, and be concatenated to become '3undefined'.  
+H. NaN. undefined is converted to NaN, cannot not be mathematically operated with 3.  
 
-14.
-A.true. '2' is convered to number 2, and compared to 1, 2>1.
-B.false. Because in string comparison, they compare in letter-by-letter, first character '1' in '12' is smaller than '2'.
-C.true.'2' is convered to number 2, and compared to 2, 2==2.
-D.false. Because === is strict equality operator, 2 and '2' are different types. 
-E.false. boolean true is convered to number 1, and compared to 2, 2 is not equal to 1.
-F.true. Boolean(2) is convered to true. true==true is true.
+14.  
+A.true. '2' is convered to number 2, and compared to 1, 2>1.  
+B.false. Because in string comparison, they compare in letter-by-letter, first character '1' in '12' is smaller than '2'.  
+C.true.'2' is convered to number 2, and compared to 2, 2==2.  
+D.false. Because === is strict equality operator, 2 and '2' are different types.   
+E.false. boolean true is convered to number 1, and compared to 2, 2 is not equal to 1.  
+F.true. Boolean(2) is convered to true. true==true is true.  
 
-15.
-== will make type conversion when it do comparison. Bnd === will not, so when two type variable do comparison, it will return false.
+15.  
+== will make type conversion when it do comparison. Bnd === will not, so when two type variable do comparison, it will return false.  
 
 
 
