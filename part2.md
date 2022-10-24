@@ -48,6 +48,13 @@ F.true. Boolean(2) is convered to true. true==true is true.
 15.  
 == will make type conversion when it do comparison. Bnd === will not, so when two type variable do comparison, it will return false.  
 
+17.  
+[2,4,6]. Because function doSomething will iterate through the array and make double. And push result to newArr.  
+
+19.
+
+
+
 
 
 
